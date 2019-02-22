@@ -21,3 +21,5 @@ Licznik:
 Klasa Counter reprezentuje licznik. Wartością licznika jest zmienna value. 
 
 Zamiast zwykłego long użyłem AtomicLong żeby uniknąć problemów z wątkami.
+
+http://localhost:10000/app
