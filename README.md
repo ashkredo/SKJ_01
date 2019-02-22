@@ -23,3 +23,5 @@ Klasa Counter reprezentuje licznik. Wartością licznika jest zmienna value.
 Zamiast zwykłego long użyłem AtomicLong żeby uniknąć problemów z wątkami.
 
 http://localhost:10000/app
+
+![alt text](https://github.com/s15444/NetworkOfCounters-SKJ/blob/master/project-info/1.PNG)
